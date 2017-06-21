@@ -70,6 +70,19 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-73.595906, 45.522521]
+      },
+      "properties": {
+        "title": "Brioche À Tête",
+        "address": "107 Avenue Fairmount O, Montréal, QC H2T 2M4, Canada",
+        "description": "Good brioches!",
+        "marker-symbol": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-73.5994030, 45.5254370]
       },
       "properties": {
@@ -192,7 +205,7 @@
       "properties": {
         "title": "Café Olimpico",
         "address": "124 Rue Saint Viateur O, Montréal, QC H2T 2L1",
-        "description": "Typical italian Cafe",
+        "description": "Typical italian Cafe. Best latte in town!",
         "marker-symbol": "cafe"
       }
       },
@@ -260,7 +273,7 @@
         "description": "Pub, microbrewery",
         "marker-symbol": "bar"
       }
-      },
+    },
      {
       "type": "Feature",
       "geometry": {
@@ -273,7 +286,20 @@
         "description": "Pub, microbrewery",
         "marker-symbol": "bar"
       }  
-},
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.595581, 45.522877]
+      },
+      "properties": {
+        "title": "Barros Lucos",
+        "address": "5201 St Urbain St, Montreal, QC H2T 2W8, Canada",
+        "description": "Chilean food. All day breakfast. The place to get churros!",
+        "marker-symbol": "restaurant"
+      }
+      },
      {
       "type": "Feature",
       "geometry": {
